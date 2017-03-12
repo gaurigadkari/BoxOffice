@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flickster</string>
+    <string name="rating">Rating: </string>
+    <string name="genre">Genre: </string>
+</resources>
