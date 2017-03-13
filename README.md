@@ -2,7 +2,7 @@
 
 BoxOffice shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
-Time spent: **30** hours spent in total
+Time spent: **35** hours spent in total
 
 ## User Stories
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+![Video Walkthrough](BoxOffice.gif)
 
 ## Notes
 
