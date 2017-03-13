@@ -6,10 +6,6 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-/**
- * Created by ankitgarg on 3/12/17.
- */
-
 public class MovieDetail {
     public String getBackdropPath() {
         return String.format("https://image.tmdb.org/t/p/w342%s", backdropPath);
